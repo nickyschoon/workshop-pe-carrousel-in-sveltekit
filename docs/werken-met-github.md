@@ -13,7 +13,7 @@ Maak een github account aan als je dat niet al hebt.
 
 <img width="1131" height="616" alt="fork" src="https://github.com/user-attachments/assets/ab800948-1d82-4183-8bbd-59d61108fe3f" />
 
-#### 2. Clone je repository via de GitHub desktop App naar jouw computer
+#### 2. Clone je repository via de GitHub desktop App of via de terminal naar jouw computer
 Kies bij het knopje _Add_ voor  _Clone Repository..._  
 
 <img width="478" height="216" alt="clone 1" src="https://github.com/user-attachments/assets/29eaf8df-c2f0-4cc2-8963-3b6546a2cb26" />
