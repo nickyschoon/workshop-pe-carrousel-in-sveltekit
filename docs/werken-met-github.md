@@ -32,6 +32,8 @@ Dat ziet er dan zo uit in je code editor
 
 <img width="1034" height="784" alt="editor" src="https://github.com/user-attachments/assets/7ad47dc6-3788-494e-9486-d3713d96deeb" />
 
+<hr>
+
 Ga verder met de volgende stap: [Data ophalen met SvelteKit](https://github.com/fdnd-task/workshop-pe-carrousel-in-sveltekit/blob/main/docs/data-ophalen-met-sveltekit.md)
 
 
