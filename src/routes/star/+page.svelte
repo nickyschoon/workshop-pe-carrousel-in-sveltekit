@@ -1,6 +1,6 @@
 <script>
 const { data } = $props()
-const characters = (data.swCharactersData.results)
+const characters = data.swCharactersData.results
 
 </script>
 
