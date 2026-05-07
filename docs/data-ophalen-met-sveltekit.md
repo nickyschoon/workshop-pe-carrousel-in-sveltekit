@@ -88,6 +88,9 @@ Je kan de super coole FDND features in de Carrousel tonen, maar nog toffer is om
 Kies zelf een REST API uit: https://github.com/public-api-lists/public-api-lists, en verwerk de data in de Carrousel. Hiervoor zal je ook de HTML moeten aanpassen.
 
 #### 8. Commit & push wijzigingen via de GitHub Desktop app
+Hiermee breng je jouw wijzigingen van jouw locale repository naar de online GitHub repository.
+
+Ga verder met de volgende stap: [PE Carrousel maken](https://github.com/fdnd-task/workshop-pe-carrousel-in-sveltekit/blob/main/docs/pe-carrousel-maken.md)
 
 
 
