@@ -90,6 +90,8 @@ Kies zelf een REST API uit: https://github.com/public-api-lists/public-api-lists
 #### 8. Commit & push wijzigingen via de GitHub Desktop app
 Hiermee breng je jouw wijzigingen van jouw locale repository naar de online GitHub repository.
 
+<hr>
+
 Ga verder met de volgende stap: [PE Carrousel maken](https://github.com/fdnd-task/workshop-pe-carrousel-in-sveltekit/blob/main/docs/pe-carrousel-maken.md)
 
 
